@@ -2,8 +2,7 @@
 
 **AI-powered stock analysis tool** that combines real-time market data, news aggregation, and GPT-4-powered insights in an interactive Streamlit dashboard.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=FinBuddy+Stock+Analyzer+Dashboard) *(Replace with actual screenshot)*
-
+![Demo Screenshot](https://finbuddyautonomousagent.streamlit.app/) 
 ## 🌟 Features
 
 - **Comprehensive Stock Analysis**
