@@ -1,0 +1,108 @@
+{
+  "Technology": {
+      "Apple": "AAPL",
+      "Microsoft": "MSFT",
+      "Nvidia": "NVDA",
+      "Alphabet (Google)": "GOOGL",
+      "Meta Platforms (Facebook)": "META",
+      "Amazon": "AMZN",
+      "Tesla": "TSLA",
+      "Adobe": "ADBE",
+      "Salesforce": "CRM",
+      "Advanced Micro Devices": "AMD"
+  },
+  "Finance": {
+      "JPMorgan Chase": "JPM",
+      "Bank of America": "BAC",
+      "Wells Fargo": "WFC",
+      "Citigroup": "C",
+      "Goldman Sachs": "GS",
+      "Morgan Stanley": "MS",
+      "American Express": "AXP",
+      "Charles Schwab": "SCHW",
+      "BlackRock": "BLK",
+      "PayPal": "PYPL"
+  },
+  "Retail": {
+      "Walmart": "WMT",
+      "Costco": "COST",
+      "Target": "TGT",
+      "Home Depot": "HD",
+      "Lowe's": "LOW",
+      "Best Buy": "BBY",
+      "eBay": "EBAY",
+      "Macy's": "M",
+      "Dollar General": "DG",
+      "Kroger": "KR"
+  },
+  "Healthcare": {
+      "UnitedHealth Group": "UNH",
+      "Pfizer": "PFE",
+      "Johnson & Johnson": "JNJ",
+      "AbbVie": "ABBV",
+      "Merck & Co.": "MRK",
+      "Moderna": "MRNA",
+      "Gilead Sciences": "GILD",
+      "Amgen": "AMGN",
+      "CVS Health": "CVS",
+      "Bristol-Myers Squibb": "BMY"
+  },
+  "Energy": {
+      "ExxonMobil": "XOM",
+      "Chevron": "CVX",
+      "ConocoPhillips": "COP",
+      "Schlumberger": "SLB",
+      "Halliburton": "HAL",
+      "Marathon Petroleum": "MPC",
+      "Phillips 66": "PSX",
+      "Occidental Petroleum": "OXY",
+      "Kinder Morgan": "KMI",
+      "EOG Resources": "EOG"
+  },
+  "Consumer Goods": {
+      "Procter & Gamble": "PG",
+      "Coca-Cola": "KO",
+      "PepsiCo": "PEP",
+      "Colgate-Palmolive": "CL",
+      "Mondelez": "MDLZ",
+      "General Mills": "GIS",
+      "Kimberly-Clark": "KMB",
+      "Kellogg": "K",
+      "Tyson Foods": "TSN",
+      "Estee Lauder": "EL"
+  },
+  "Telecommunications": {
+      "Verizon": "VZ",
+      "AT&T": "T",
+      "T-Mobile US": "TMUS",
+      "Comcast": "CMCSA",
+      "Charter Communications": "CHTR"
+  },
+  "Utilities": {
+      "NextEra Energy": "NEE",
+      "Duke Energy": "DUK",
+      "Southern Company": "SO",
+      "Dominion Energy": "D",
+      "Exelon": "EXC",
+      "American Electric Power": "AEP"
+  },
+  "Industrials": {
+      "General Electric": "GE",
+      "3M": "MMM",
+      "Caterpillar": "CAT",
+      "Honeywell": "HON",
+      "Boeing": "BA",
+      "Union Pacific": "UNP",
+      "Lockheed Martin": "LMT",
+      "Raytheon Technologies": "RTX",
+      "Deere & Co.": "DE",
+      "FedEx": "FDX"
+  },
+  "Real Estate": {
+      "American Tower": "AMT",
+      "Prologis": "PLD",
+      "Crown Castle": "CCI",
+      "Simon Property Group": "SPG",
+      "Equinix": "EQIX"
+  }
+}
