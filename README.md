@@ -2,7 +2,7 @@
 
 **AI-powered stock analysis tool** that combines real-time market data, news aggregation, and GPT-4-powered insights in an interactive Streamlit dashboard.
 
-![Demo Screenshot](https://finbuddyautonomousagent.streamlit.app/) 
+![Demo Screenshot](dashboard.png) 
 ## 🌟 Features
 
 - **Comprehensive Stock Analysis**
