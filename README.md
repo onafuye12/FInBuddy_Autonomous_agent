@@ -15,6 +15,8 @@
   - Finnhub company news (with API key)
   - Web scraping for Apple/MSFT/Amazon press releases
 
+![Demo Screenshot](recent_news.png) 
+
 - **AI-Powered Reports**
   - GPT-4 generated analysis (5-part reports)
   - Business overview, financial health, recommendations
@@ -24,6 +26,8 @@
   - Plotly candlestick charts
   - Moving average trends
   - Responsive Streamlit UI
+
+![Demo Screenshot](pricechart.png) 
 
 ## 🚀 Quick Start
 
